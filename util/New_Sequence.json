@@ -1,0 +1,16 @@
+{
+    "Sequence": [
+        {
+            "Name": "Pulse #0",
+            "Duration": 100,
+            "Delay": 900,
+            "Amplitude": 20,
+            "Frequency": 0.65,
+            "MotorX": 0,
+            "MotorY": 0,
+            "MotorZ": 0
+        }
+    ],
+    "ExecCount": 1,
+    "SequenceDelay": 0
+}
